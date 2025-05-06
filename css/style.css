@@ -115,3 +115,23 @@ header {
   height: 400px;
   border: 1px dashed white;
 }
+/* footer*/
+
+.elementofooter {
+  background-color: #7fffd4;
+  width: 80%;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pulsante {
+  background-color: #ffb6c1;
+  border: 1px dashed black;
+  display: flex;
+  height: 30px;
+  width: 60px;
+  align-items: center;
+  justify-content: space-between;
+}
