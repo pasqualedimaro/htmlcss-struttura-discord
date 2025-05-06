@@ -42,6 +42,7 @@ header {
 
 /* main */
 
+/*hero*/
 .hero {
   background-color: #00008b;
   height: 500px;
@@ -55,4 +56,27 @@ header {
   height: 80%;
   display: flex;
   width: 60%;
+  border: 1px dashed black;
+}
+
+/*sezioni*/
+.sezione1 {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.elementosezione1 {
+  width: 50%;
+  height: 400px;
+  background-color: #1e90ff;
+  border: 1px dashed black;
+}
+
+.elementosezione2 {
+  width: 30%;
+  height: 400px;
+  background-color: #ffb6c1;
+  border: 1px dashed black;
 }
