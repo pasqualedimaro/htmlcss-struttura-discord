@@ -87,3 +87,10 @@ header {
   justify-content: center;
   padding: 20px;
 }
+
+.elementosezione3 {
+  background-color: #228b22;
+  width: 80%;
+  height: 700px;
+  border: 1px dashed black;
+}
